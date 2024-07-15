@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/route-assignment/static/css/main.9effb29c.css",
+    "main.js": "/route-assignment/static/js/main.24f90c77.js",
+    "static/js/453.a6a97343.chunk.js": "/route-assignment/static/js/453.a6a97343.chunk.js",
+    "static/media/logo.svg": "/route-assignment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/route-assignment/index.html",
+    "main.9effb29c.css.map": "/route-assignment/static/css/main.9effb29c.css.map",
+    "main.24f90c77.js.map": "/route-assignment/static/js/main.24f90c77.js.map",
+    "453.a6a97343.chunk.js.map": "/route-assignment/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9effb29c.css",
+    "static/js/main.24f90c77.js"
+  ]
+}
